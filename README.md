@@ -6,6 +6,7 @@
 * React
 * ReactDOM
 * React-Router
+* Karma / Mocha testing
 * Webpack
 * Babel
 * Express
