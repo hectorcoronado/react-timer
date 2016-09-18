@@ -52,7 +52,7 @@ var Countdown = React.createClass({
     });
   },
 
-  // When newStatus gets passed down from Controls, updates state:
+  // When newStatus gets passed from Controls, updates state:
   handleStatusChange: function (newStatus) {
     this.setState({countdownStatus: newStatus});
   },
