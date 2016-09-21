@@ -6,6 +6,17 @@
     padding: .75rem 3rem;
   }
 
+  .primary {
+    background-color: $blue;
+    border: 1px solid $light-blue;
+  }
+
+  .alert {
+    background-color: $red;
+    border: 1px solid $light-red;
+  }
+
+
   .button:first-child {
     margin-right: 1.5rem;
   }

@@ -8,7 +8,7 @@ var Navigation = React.createClass({
         <div className="top-bar-left">
           <ul className="menu">
             <li className="menu-text">
-              React Timer
+              CHRONOLOGICK
             </li>
             <li>
               <IndexLink to='/' activeClassName="active-link">

@@ -1,17 +1,25 @@
 ////////////
 // colors //
 ////////////
-$grey: #333333;
+$light-blue: #4ECDC4;
+$blue: #00A0B0;
+$light-red: #FF6B6B;
+$red: #C02942;
+
+////////////////
+// Background //
+////////////////
+$body-background-image: url('./images/background-image2.jpg');
 
 //////////////////////////
 // Navigation variables //
 //////////////////////////
-$nav-background:  $grey;
+$nav-background:  transparent;
 $nav-text-color: white;
 
 /////////////////////
 // Clock variables //
 /////////////////////
 $clock-text-color: white;
-$clock-bg-color: #B5D0E2;
-$clock-border-color: #2099E8;
+$clock-bg-color: #3D3D37;
+$clock-border-color: #313122;
