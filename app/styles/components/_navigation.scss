@@ -4,7 +4,9 @@
 }
 
 .top-bar {
-  .menu-text {
+  .menu-text,
+  .active-link,
+  .white {
     color: $nav-text-color;
   }
 

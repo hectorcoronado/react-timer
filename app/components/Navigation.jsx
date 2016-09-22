@@ -11,12 +11,12 @@ var Navigation = React.createClass({
               CHRONOLOGICK
             </li>
             <li>
-              <IndexLink to='/' activeClassName="active-link">
+              <IndexLink to='/' className="white" activeClassName="active-link">
                 Timer
               </IndexLink>
             </li>
             <li>
-              <Link to='/countdown' activeClassName="active-link">
+              <Link to='/countdown' className="white" activeClassName="active-link">
                 Countdown
               </Link>
             </li>
