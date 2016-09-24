@@ -1,7 +1,9 @@
-# React & FoundationCSS boilerplate app
+# CHRONOLOGICK
 ---
+https://chronologick.herokuapp.com/
 
-### React app structured with:
+---
+### React Timer & Countdown app structured with:
 
 * React
 * ReactDOM
